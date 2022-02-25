@@ -1,7 +1,7 @@
 {
   "name": "image-processor",
   "version": "1.0.0",
-  "description": "An API to resize images",
+  "description": "An Express starter project using Typescript",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/app.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com:newwebash/image-processor"
+    "url": "github.com:newwebash/express-starter-project"
   },
   "author": "Ashley Newton",
   "license": "ISC",
